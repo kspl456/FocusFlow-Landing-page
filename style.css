@@ -10,6 +10,10 @@
     background-color: rgba(0, 255, 162, 0.75);
     border-color: rgba(0, 255, 162, 0.75);
 }
+.btn:active{
+    background-color: rgba(0, 255, 162, 0.95);
+    border-color: rgba(0, 255, 162, 0.95);
+}
 .icon{
     margin-right: 4%;
     margin-top: 0.5%;
@@ -25,4 +29,19 @@
 .social{
     display: inline;
     margin: 1%;
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    color: rgba(0, 255, 162, 0.75);
+}
+.card-img-top{
+    border-radius: 5%;
+}
+.carousel-inner{
+    display: flex;
+  justify-content: center; 
+  align-items: center; 
+  
 }
