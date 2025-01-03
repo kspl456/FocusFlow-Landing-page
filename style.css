@@ -26,6 +26,9 @@
 .Features{
     background-image: linear-gradient(to bottom right,rgb(191, 255, 231), rgba(0, 255, 162, 0.55));
 }
+.Pricing{
+    background-image: linear-gradient(to bottom right,rgb(191, 255, 231), rgba(0, 255, 162, 0.55));
+}
 .social{
     display: inline;
     margin: 1%;
@@ -43,5 +46,4 @@
     display: flex;
   justify-content: center; 
   align-items: center; 
-  
 }
