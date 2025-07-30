@@ -93,4 +93,11 @@
   .carousel-control-next:hover {
     border-color: rgba(0, 255, 162, 0.55); /* Change border color on hover */
   }
-    
+    header{
+      position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.603);
+    border-color: transparent;
+    }
